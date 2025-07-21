@@ -48,8 +48,8 @@ LIMIT 5
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-data-analyst.git
-cd ai-data-analyst
+git clone https://github.com/SANJAIB2004/AI_based_DataAnalyst.git
+cd AI_based_DataAnalyst
 ```
 
 2. **Create a virtual environment**
