@@ -258,6 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sanjai B
 
 **Note**: This is an educational project demonstrating AI-powered data analysis. Always review generated SQL queries before execution in production environments.
